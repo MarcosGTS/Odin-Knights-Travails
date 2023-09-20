@@ -4,7 +4,7 @@
   "description": "A simple program that display the shortest path made by a knight chess piece.",
   "main": "knights-travails.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "MarcosGTS",
   "license": "ISC",
