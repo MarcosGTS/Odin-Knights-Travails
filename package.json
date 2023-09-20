@@ -1,0 +1,11 @@
+{
+  "name": "odin-knights-travails",
+  "version": "1.0.0",
+  "description": "A simple program that display the shortest path made by a knight chess piece.",
+  "main": "knights-travails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MarcosGTS",
+  "license": "ISC"
+}
