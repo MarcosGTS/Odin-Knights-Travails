@@ -26,7 +26,6 @@ function Queue() {
     }
 
     return {
-        first,
         enqueue,
         dequeue,
         isEmpty,
@@ -89,6 +88,4 @@ function kightMoves(start, end) {
     return createPath(prev, end); 
 }
 
-console.log(kightMoves([0, 0], [1, 2]));
-console.log(kightMoves([3, 3], [0, 0]));
-console.log(kightMoves([0, 0], [3, 3]));
+module.exports = kightMoves;
